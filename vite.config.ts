@@ -10,6 +10,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+    base: "/Panel-de-control-Huevos-Don-Chiche/",
   resolve: {
     alias: {
       // Alias @ to the src directory
